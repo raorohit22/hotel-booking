@@ -61,7 +61,7 @@ A full-stack hotel booking application built with the MERN stack (MongoDB, Expre
 Below are some screenshots of the frontend pages:
 
 **Home Page**
-![Home Page](frontend/public/home-page.png)
+![Home Page](/public/home-page.png)
 
 **Sign Up**
 ![Sign Up](frontend/public/sign-up.png)
