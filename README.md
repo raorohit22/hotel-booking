@@ -64,23 +64,23 @@ Below are some screenshots of the frontend pages:
 ![Home Page](/public/home-page.png)
 
 **Sign Up**
-![Sign Up](frontend/public/sign-up.png)
+![Sign Up](/public/sign-up.png)
 
 **Sign In**
-![Sign In](frontend/public/sign-in.png)
+![Sign In](/public/sign-in.png)
 
 **Add Hotel**
-![Add Hotel](frontend/public/add-hotel.png)
-![Add Hotel 2](frontend/public/add-hotel-2.png)
+![Add Hotel](/public/add-hotel.png)
+![Add Hotel 2](/public/add-hotel-2.png)
 
 **Hotel Booking**
-![Hotel Booking](frontend/public/hotel-booking.png)
+![Hotel Booking](/public/hotel-booking.png)
 
 **Booking Confirmation**
-![Booking Confirm](frontend/public/booking-confirm.png)
+![Booking Confirm](/public/booking-confirm.png)
 
 **My Bookings**
-![My Bookings](frontend/public/my-bookings.png)
+![My Bookings](/public/my-bookings.png)
 
 This project is for educational purposes only.
 #
