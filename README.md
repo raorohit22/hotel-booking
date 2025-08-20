@@ -61,26 +61,26 @@ A full-stack hotel booking application built with the MERN stack (MongoDB, Expre
 Below are some screenshots of the frontend pages:
 
 **Home Page**
-![Home Page](frontend/public/home%20page.png)
+![Home Page](frontend/public/home-page.png)
 
 **Sign Up**
-![Sign Up](frontend/public/sign%20up.png)
+![Sign Up](frontend/public/sign-up.png)
 
 **Sign In**
-![Sign In](frontend/public/sign%20in.png)
+![Sign In](frontend/public/sign-in.png)
 
 **Add Hotel**
-![Add Hotel](frontend/public/add%20hotel.png)
-![Add Hotel 2](frontend/public/add%20hotel-2.png)
+![Add Hotel](frontend/public/add-hotel.png)
+![Add Hotel 2](frontend/public/add-hotel-2.png)
 
 **Hotel Booking**
-![Hotel Booking](frontend/public/hotel%20booking.png)
+![Hotel Booking](frontend/public/hotel-booking.png)
 
 **Booking Confirmation**
-![Booking Confirm](frontend/public/booking%20confirm.png)
+![Booking Confirm](frontend/public/booking-confirm.png)
 
 **My Bookings**
-![My Bookings](frontend/public/my%20bookings.png)
+![My Bookings](frontend/public/my-bookings.png)
 
 This project is for educational purposes only.
 #
